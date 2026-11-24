@@ -6,7 +6,7 @@ This folder contains my code templates, laboratory debugging exercises, and note
 
 ### 📅November 24, 2026
 
-### 1. Build a Curriculum Outline (Workshop)
+### 1. **[Build a Curriculum Outline (Workshop)](./curriculum%20outline.html)**
 * Built a complete webpage layout structure across 11 progressive steps.
 * Learned how to organize primary headings, group information, and nest elements correctly.
 
