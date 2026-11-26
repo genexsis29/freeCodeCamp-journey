@@ -27,8 +27,8 @@ This folder contains my code templates, laboratory debugging exercises, and note
   * Practiced advanced element nesting and structural semantic formatting.
   * Scaled layout composition using section grouping and text-level elements..
 
-  ### 📅November 26, 2026
-  **[Build a Recipie Page](./recipie%20page%20app.html)**
+### 📅November 26, 2026
+**[Build a Recipie Page](./recipie%20page%20app.html)**
 * **Module Completed: Build a Recipe Page (Lab)**
   * Developed a semantically structured recipe layout focusing on content hierarchy and text formatting.
   * Practiced structural layout groupings to present multi-step information cleanly.
