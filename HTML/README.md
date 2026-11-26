@@ -18,7 +18,7 @@ This folder contains my code templates, laboratory debugging exercises, and note
 ### 3. Core Theory
 * **HTML Attributes:** Mastered how attributes modify HTML elements (like setting destinations for links or sources for images) to alter how components behave on the web.
 
-### 📅October 21, 2026
+### 📅November 25, 2026
 **[Build a Cat Photo App](./cat%20photo%20app.html)**
 * **Module Completed:** Understanding the HTML Boilerplate (Theory)
   * Mastered the essential architecture of a production-ready web document.
@@ -26,3 +26,10 @@ This folder contains my code templates, laboratory debugging exercises, and note
 * **Workshop Commenced:** Build a Cat Photo App
   * Practiced advanced element nesting and structural semantic formatting.
   * Scaled layout composition using section grouping and text-level elements..
+
+  ### 📅November 26, 2026
+  **[Build a Recipie Page](./recipie%20page%20app.html)**
+* **Module Completed: Build a Recipe Page (Lab)**
+  * Developed a semantically structured recipe layout focusing on content hierarchy and text formatting.
+  * Practiced structural layout groupings to present multi-step information cleanly.
+  * *The Engineering Connection:* Organizing nested lists and instructional data is key to building intuitive data presentation layouts for complex applications later on.
